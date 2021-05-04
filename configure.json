@@ -6,13 +6,13 @@
     },
 
     "line": {
-        "token": "kddflBs5SumsMn6JcFcd / lWejHhwJc0rsWGXvqjG2W5hC5EQPhFEowpPtUxJVjua / 6a77NPgSERcDcbfCHc7EsLR / EHEYz4RykJ96oMtiwpbYJocXAnU9PTF",
+        "token": "kddflBs5SumsMn6JcFcd/lWejHhwJc0rsWGXvqjG2W5hC5EQPhFEowpPtUxJVjua/6a77NPgSERcDcbfCHc7EsLR/EHEYz4RykJ96oMtiwpbYJocXAnU9PTFhP3UCMJcBkowniuN0cVvOucaPEM4+wdB04t89/1O/w1cDnyilFU=",
         "secret": "3f4ab323fea9cc0e2005e089dd1314fe",
         "groupId": ""
     },
 
     "discord": {
-        "hookUrl": "https://discord.com/api/webhooks/796324618562306069/KBRZYh0LkTUnQfcNipZ5jGV1VOM4mytjlcQnFbaMNkwAn54T_bsK9oMVwCpva7Hrycd3",
+        "hookUrl": "https://discord.com/api/webhooks/839122264594448405/Yd_2gOV7N3NSMtXDeHl-RxixdoyMGp7eiW4bJ_ICHe71_Kw74sBs-ltTw2k1Z7ZglsrR",
         "botName": "LINE2Discord",
         "botThumbnail": "",
         "maxFileSize": 8388608
